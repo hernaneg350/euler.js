@@ -1,0 +1,9 @@
+{
+  "name": "euler.js",
+  "version": "1.0.0",
+  "description": "A full-featured, high-performance javascript collections package.",
+  "main": "index.js",
+  "repository": "https://github.com/hernaneg350/euler.js",
+  "author": "Hernan Fuentes Araujo",
+  "license": "MIT"
+}
